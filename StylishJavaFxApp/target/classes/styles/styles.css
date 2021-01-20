@@ -1,0 +1,8 @@
+#text{
+    -fx-font: 25px "sans-serif";
+    -fx-fill: #eb2020;
+}
+
+#root{
+    -fx-background-color: linear-gradient(from 50% 0% to 50% 50%,reflect, #000000 ,  #ffffff);
+}
